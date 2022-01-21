@@ -36,4 +36,4 @@ local function init()
     assert(ok, err)
 end
 
-return {init = init}
+return { init = init }
